@@ -1,4 +1,4 @@
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <a href="https://guillermobalsera.github.io/GuimoNotion/"><img src="https://guillermobalsera.github.io/GuimoNotion/assets/guimonotion.svg" alt="isolated" width="20"/> GuimoNotion</a>
 </div>
 
