@@ -1,4 +1,6 @@
-[<img src="https://guillermobalsera.github.io/GuimoNotion/assets/guimonotion.svg" alt="isolated" width="20"/> GuimoNotion](https://guillermobalsera.github.io/GuimoNotion/)
+<div style="display: flex;">
+  [<img src="https://guillermobalsera.github.io/GuimoNotion/assets/guimonotion.svg" alt="isolated" width="20"/> GuimoNotion](https://guillermobalsera.github.io/GuimoNotion/)
+</div>
 
 [<img src="https://github.com/guillermoBalsera/password-generator/blob/main/public/password-generator-favicon.png" alt="isolated" width="20"/> PaswordGenerator](https://guillermobalsera.github.io/password-generator/)
 
