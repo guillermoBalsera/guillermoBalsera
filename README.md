@@ -1,4 +1,4 @@
-[GuimoNotion](https://guillermobalsera.github.io/GuimoNotion/)
+![image](https://guillermobalsera.github.io/GuimoNotion/assets/guimonotion.svg)[GuimoNotion](https://guillermobalsera.github.io/GuimoNotion/)
 
 [PaswordGenerator](https://guillermobalsera.github.io/password-generator/)
 
